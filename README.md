@@ -10,6 +10,11 @@ git clone https://github.com/Vikas-ABD/Reconstruct_original_shape.git
 cd Reconstruct_original_shape
 ```
 
+### 2. Install Dependencies
+```sh
+pip install -r requirements.txt
+```
+
 ### 2. Run the Notebook
 - Open **`Reconstruct_Original_Shape.ipynb`** in Jupyter Notebook or Google Colab.
 - Execute the cells step by step to analyze and reconstruct the original shape.
